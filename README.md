@@ -21,4 +21,4 @@ Content-Type/X-Content-Type-Options Небезопасно     Средняя   
 Управление кэшем               Небезопасно     Средняя    Установите заголовок 'Cache-Control' на 'no-store, private' для конфиденциальных ресурсов, чтобы предотвратить кэширование.
 
 
-Process finished with exit code 0```
+Process finished with exit code 0
